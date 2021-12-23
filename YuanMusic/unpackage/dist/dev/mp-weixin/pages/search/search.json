@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "custom",
+  "usingComponents": {
+    "musichead": "/components/musichead/musichead"
+  }
+}
